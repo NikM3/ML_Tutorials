@@ -1,15 +1,61 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="f9584e67-8b5f-402a-93c0-b57710120aa9" name="Changes" comment="" />
+    <list default="true" id="f9584e67-8b5f-402a-93c0-b57710120aa9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/NEAT Plays Flappy Bird/Flappy Bird Clone.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NEAT Plays Flappy Bird/config-feedforward.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NEAT Plays Flappy Bird/imgs/base.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NEAT Plays Flappy Bird/imgs/bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NEAT Plays Flappy Bird/imgs/bird1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NEAT Plays Flappy Bird/imgs/bird2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NEAT Plays Flappy Bird/imgs/bird3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NEAT Plays Flappy Bird/imgs/pipe.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Neural Network/Chat Bot.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Neural Network/Fashion Classification.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Neural Network/Text Classification.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Neural Network/model.h5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Neural Network/test_review.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Machine Learning Tutorials.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Machine Learning Tutorials.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/K Means/K Means Working File.py" beforeDir="false" afterPath="$PROJECT_DIR$/K Means/K Means Working File.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/KNN/KNN Working File.py" beforeDir="false" afterPath="$PROJECT_DIR$/KNN/KNN Working File.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Linear Regression/Regression Working File.py" beforeDir="false" afterPath="$PROJECT_DIR$/Linear Regression/Regression Working File.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SVM/SVM Working File.py" beforeDir="false" afterPath="$PROJECT_DIR$/SVM/SVM Working File.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;NikM3&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/NikM3/ML_Tutorials.git&quot;,
+    &quot;accountId&quot;: &quot;14225fbe-3a49-4be0-9a87-1cb2683708f0&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2lfHoqS6LS97POvXBWTCMMQb7qH" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -18,8 +64,23 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.Flappy Bird Clone.executor": "Run",
+    "Python.Flappy Bird Tutorial.executor": "Run",
+    "Python.K Means Working File.executor": "Run",
+    "Python.KNN Working File.executor": "Run",
+    "Python.Neural Network Working File.executor": "Run",
+    "Python.Regression Working File.executor": "Run",
+    "Python.SVM Working File.executor": "Run",
+    "Python.Text Classification.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyIntegratedToolsModulesConfigurable",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -39,7 +100,33 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1725564388499</updated>
+      <workItem from="1725564389534" duration="20583000" />
+      <workItem from="1725650412431" duration="16826000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Machine_Learning_Tutorials$Neural_Network_Working_File.coverage" NAME="Neural Network Working File Coverage Results" MODIFIED="1725649680786" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Neural Network" />
+    <SUITE FILE_PATH="coverage/Machine_Learning_Tutorials$SVM_Working_File.coverage" NAME="SVM Working File Coverage Results" MODIFIED="1725574397764" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SVM" />
+    <SUITE FILE_PATH="coverage/Machine_Learning_Tutorials$Flappy_Bird_Tutorial.coverage" NAME="Flappy Bird Tutorial Coverage Results" MODIFIED="1725663707149" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/NEAT Plays Flappy Bird" />
+    <SUITE FILE_PATH="coverage/Machine_Learning_Tutorials$Regression_Working_File.coverage" NAME="Regression Working File Coverage Results" MODIFIED="1725568592190" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Linear Regression" />
+    <SUITE FILE_PATH="coverage/Machine_Learning_Tutorials$Text_Classification.coverage" NAME="Text Classification Coverage Results" MODIFIED="1725656040823" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Neural Network" />
+    <SUITE FILE_PATH="coverage/Machine_Learning_Tutorials$K_Means_Working_File.coverage" NAME="K Means Working File Coverage Results" MODIFIED="1725576719190" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/K Means" />
+    <SUITE FILE_PATH="coverage/Machine_Learning_Tutorials$KNN_Working_File.coverage" NAME="KNN Working File Coverage Results" MODIFIED="1725572329361" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/KNN" />
+    <SUITE FILE_PATH="coverage/Machine_Learning_Tutorials$Flappy_Bird_Clone.coverage" NAME="Flappy Bird Clone Coverage Results" MODIFIED="1725667439709" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/NEAT Plays Flappy Bird" />
   </component>
 </project>
